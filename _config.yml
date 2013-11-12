@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: 40beans
 markdown: redcarpet
 pygments: true
+baseurl: /40beans
